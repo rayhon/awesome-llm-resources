@@ -1,9 +1,5 @@
 # awesome-llm-resources
 
-Great! I will compile a comprehensive list of the most influential Large Language Model (LLM) and foundational NLP/Transformer papers, prioritizing those with significant real-world impact. The list will be formatted as a markdown table with columns including the date, title, link, authors, and a summary of why each paper is important.
-
-I’ll let you know when the list is ready!
-
 The following table highlights seminal papers in the development of large language models (LLMs) and key transformer-based NLP research, listed chronologically. These works introduced foundational architectures, techniques, or insights that have significantly impacted real-world LLM capabilities and applications.
 
 | **Date** | **Title** | **Link** | **By Whom** | **Key Contributions** |
